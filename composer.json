@@ -1,0 +1,15 @@
+{
+    "name": "meira/etl-extract-transform-load",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Meira",
+            "email": "rafameira10@icloud.com"
+        }
+    ],
+    "require": {}
+}
